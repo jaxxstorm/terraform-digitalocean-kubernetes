@@ -2,8 +2,6 @@
 
 Create a Kubernetes cluster on Digital Ocean with Terraform
 
-_This is a work in progress, expect changes to happen as the module evolves_
-
 ## Usage
 
 ```hcl
