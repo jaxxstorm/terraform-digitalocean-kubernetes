@@ -12,7 +12,6 @@ variable "cluster_name" {
 
 variable "cluster_version" {
   description = "The version of Kubernetes to install ithee cluster"
-  default     = "1.12.1-do.2"
 }
 
 variable "cluster_tags" {
